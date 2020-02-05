@@ -48,7 +48,7 @@ def naming_system
           :Order => {
             :Family => {
               :Genus => {
-                :Specied => nil
+                :Species => nil
               }
             }
           }

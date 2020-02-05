@@ -45,13 +45,14 @@ def naming_system
     :Kingdom => {
       :Phylum => {
         :Class => {
-          :Family => {
-            :Genus => {
-              :Specied => nil
+          :Order => {
+            :Family => {
+              :Genus => {
+                :Specied => nil
+              }
             }
           }
-        },
-        :Order => {},
+        }
       }
     }
   }
